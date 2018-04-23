@@ -41,6 +41,7 @@
     <Reference Include="DevExpress.XtraBars.v16.2" />
     <Reference Include="DevExpress.XtraGrid.v16.2" />
     <Reference Include="DevExpress.XtraLayout.v16.2" />
+    <Reference Include="DevExpress.XtraNavBar.v16.2, Version=16.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.XtraPrinting.v16.2" />
     <Reference Include="DevExpress.Printing.v16.2.Core" />
     <Reference Include="System" />
@@ -60,6 +61,24 @@
     </Compile>
     <Compile Include="1.DichChuyen.Designer.cs">
       <DependentUpon>1.DichChuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6. Affine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="6. Affine.Designer.cs">
+      <DependentUpon>6. Affine.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7.AES.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="7.AES.Designer.cs">
+      <DependentUpon>7.AES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="8.RSA.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="8.RSA.Designer.cs">
+      <DependentUpon>8.RSA.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -101,6 +120,15 @@
     </Compile>
     <EmbeddedResource Include="1.DichChuyen.resx">
       <DependentUpon>1.DichChuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6. Affine.resx">
+      <DependentUpon>6. Affine.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7.AES.resx">
+      <DependentUpon>7.AES.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8.RSA.resx">
+      <DependentUpon>8.RSA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

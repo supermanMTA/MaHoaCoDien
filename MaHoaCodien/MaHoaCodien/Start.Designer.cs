@@ -36,9 +36,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::MaHoaCodien.Properties.Resources.What_You_Ought_to_Know_About_Data_Encryption_Codes_1;
-            this.pictureBox1.Location = new System.Drawing.Point(0, 102);
+            this.pictureBox1.Location = new System.Drawing.Point(3, 49);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(669, 412);
+            this.pictureBox1.Size = new System.Drawing.Size(594, 356);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
@@ -46,11 +46,11 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(162, 23);
+            this.label1.Location = new System.Drawing.Point(164, 10);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(316, 55);
+            this.label1.Size = new System.Drawing.Size(210, 36);
             this.label1.TabIndex = 1;
             this.label1.Text = "Mã hóa cổ điển";
             // 
@@ -61,7 +61,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Start";
-            this.Size = new System.Drawing.Size(670, 517);
+            this.Size = new System.Drawing.Size(609, 517);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

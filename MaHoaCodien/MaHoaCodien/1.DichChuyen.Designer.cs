@@ -43,7 +43,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(402, 50);
+            this.label1.Location = new System.Drawing.Point(346, 50);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(59, 13);
             this.label1.TabIndex = 0;
@@ -53,7 +53,7 @@
             // 
             this.txtInput.Location = new System.Drawing.Point(13, 45);
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(344, 162);
+            this.txtInput.Size = new System.Drawing.Size(312, 149);
             this.txtInput.TabIndex = 1;
             this.txtInput.Text = "";
             // 
@@ -80,21 +80,21 @@
             // 
             this.txtOutput.Location = new System.Drawing.Point(13, 258);
             this.txtOutput.Name = "txtOutput";
-            this.txtOutput.Size = new System.Drawing.Size(340, 157);
+            this.txtOutput.Size = new System.Drawing.Size(312, 129);
             this.txtOutput.TabIndex = 4;
             this.txtOutput.Text = "";
             // 
             // txtKey
             // 
             this.txtKey.AutoSize = true;
-            this.txtKey.Location = new System.Drawing.Point(496, 48);
+            this.txtKey.Location = new System.Drawing.Point(440, 48);
             this.txtKey.Name = "txtKey";
             this.txtKey.Size = new System.Drawing.Size(74, 20);
             this.txtKey.TabIndex = 5;
             // 
             // btnMahoa
             // 
-            this.btnMahoa.Location = new System.Drawing.Point(415, 109);
+            this.btnMahoa.Location = new System.Drawing.Point(359, 109);
             this.btnMahoa.Name = "btnMahoa";
             this.btnMahoa.Size = new System.Drawing.Size(75, 23);
             this.btnMahoa.TabIndex = 6;
@@ -104,7 +104,7 @@
             // 
             // btnGiaiMa
             // 
-            this.btnGiaiMa.Location = new System.Drawing.Point(525, 109);
+            this.btnGiaiMa.Location = new System.Drawing.Point(469, 109);
             this.btnGiaiMa.Name = "btnGiaiMa";
             this.btnGiaiMa.Size = new System.Drawing.Size(75, 23);
             this.btnGiaiMa.TabIndex = 7;
@@ -114,7 +114,7 @@
             // 
             // btnThamma
             // 
-            this.btnThamma.Location = new System.Drawing.Point(414, 171);
+            this.btnThamma.Location = new System.Drawing.Point(358, 171);
             this.btnThamma.Name = "btnThamma";
             this.btnThamma.Size = new System.Drawing.Size(75, 23);
             this.btnThamma.TabIndex = 8;
@@ -136,7 +136,7 @@
             this.Controls.Add(this.txtInput);
             this.Controls.Add(this.label1);
             this.Name = "DichChuyen";
-            this.Size = new System.Drawing.Size(634, 439);
+            this.Size = new System.Drawing.Size(573, 439);
             ((System.ComponentModel.ISupportInitialize)(this.txtKey)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

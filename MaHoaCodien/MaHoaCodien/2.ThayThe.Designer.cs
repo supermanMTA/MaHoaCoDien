@@ -40,7 +40,7 @@
             // 
             // btnGiaiMa
             // 
-            this.btnGiaiMa.Location = new System.Drawing.Point(548, 159);
+            this.btnGiaiMa.Location = new System.Drawing.Point(478, 159);
             this.btnGiaiMa.Name = "btnGiaiMa";
             this.btnGiaiMa.Size = new System.Drawing.Size(75, 23);
             this.btnGiaiMa.TabIndex = 15;
@@ -50,7 +50,7 @@
             // 
             // btnMahoa
             // 
-            this.btnMahoa.Location = new System.Drawing.Point(434, 159);
+            this.btnMahoa.Location = new System.Drawing.Point(364, 159);
             this.btnMahoa.Name = "btnMahoa";
             this.btnMahoa.Size = new System.Drawing.Size(75, 23);
             this.btnMahoa.TabIndex = 14;
@@ -62,7 +62,7 @@
             // 
             this.txtOutput.Location = new System.Drawing.Point(36, 265);
             this.txtOutput.Name = "txtOutput";
-            this.txtOutput.Size = new System.Drawing.Size(340, 157);
+            this.txtOutput.Size = new System.Drawing.Size(289, 157);
             this.txtOutput.TabIndex = 12;
             this.txtOutput.Text = "";
             // 
@@ -89,14 +89,14 @@
             // 
             this.txtInput.Location = new System.Drawing.Point(36, 52);
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(344, 162);
+            this.txtInput.Size = new System.Drawing.Size(289, 162);
             this.txtInput.TabIndex = 9;
             this.txtInput.Text = "";
             // 
             // txtRandom
             // 
             this.txtRandom.Enabled = false;
-            this.txtRandom.Location = new System.Drawing.Point(418, 73);
+            this.txtRandom.Location = new System.Drawing.Point(348, 73);
             this.txtRandom.Name = "txtRandom";
             this.txtRandom.Size = new System.Drawing.Size(228, 50);
             this.txtRandom.TabIndex = 16;
@@ -104,7 +104,7 @@
             // 
             // btnTaokhoa
             // 
-            this.btnTaokhoa.Location = new System.Drawing.Point(418, 44);
+            this.btnTaokhoa.Location = new System.Drawing.Point(348, 44);
             this.btnTaokhoa.Name = "btnTaokhoa";
             this.btnTaokhoa.Size = new System.Drawing.Size(75, 23);
             this.btnTaokhoa.TabIndex = 17;
@@ -125,7 +125,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtInput);
             this.Name = "ThayThe";
-            this.Size = new System.Drawing.Size(663, 557);
+            this.Size = new System.Drawing.Size(626, 469);
             this.ResumeLayout(false);
             this.PerformLayout();
 

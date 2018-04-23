@@ -125,9 +125,9 @@
             // 
             // txtOutput
             // 
-            this.txtOutput.Location = new System.Drawing.Point(311, 208);
+            this.txtOutput.Location = new System.Drawing.Point(294, 208);
             this.txtOutput.Name = "txtOutput";
-            this.txtOutput.Size = new System.Drawing.Size(324, 157);
+            this.txtOutput.Size = new System.Drawing.Size(288, 157);
             this.txtOutput.TabIndex = 62;
             this.txtOutput.Text = "";
             // 
@@ -152,9 +152,9 @@
             // 
             // txtInput
             // 
-            this.txtInput.Location = new System.Drawing.Point(311, 53);
+            this.txtInput.Location = new System.Drawing.Point(289, 49);
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(337, 97);
+            this.txtInput.Size = new System.Drawing.Size(288, 133);
             this.txtInput.TabIndex = 59;
             this.txtInput.Text = "";
             // 
@@ -186,7 +186,7 @@
             // 
             // mt44
             // 
-            this.mt44.Location = new System.Drawing.Point(164, 169);
+            this.mt44.Location = new System.Drawing.Point(133, 169);
             this.mt44.Name = "mt44";
             this.mt44.Size = new System.Drawing.Size(19, 20);
             this.mt44.TabIndex = 91;
@@ -194,7 +194,7 @@
             // 
             // mt41
             // 
-            this.mt41.Location = new System.Drawing.Point(89, 169);
+            this.mt41.Location = new System.Drawing.Point(58, 169);
             this.mt41.Name = "mt41";
             this.mt41.Size = new System.Drawing.Size(19, 20);
             this.mt41.TabIndex = 90;
@@ -202,7 +202,7 @@
             // 
             // mt42
             // 
-            this.mt42.Location = new System.Drawing.Point(114, 169);
+            this.mt42.Location = new System.Drawing.Point(83, 169);
             this.mt42.Name = "mt42";
             this.mt42.Size = new System.Drawing.Size(19, 20);
             this.mt42.TabIndex = 89;
@@ -210,7 +210,7 @@
             // 
             // mt43
             // 
-            this.mt43.Location = new System.Drawing.Point(139, 169);
+            this.mt43.Location = new System.Drawing.Point(108, 169);
             this.mt43.Name = "mt43";
             this.mt43.Size = new System.Drawing.Size(19, 20);
             this.mt43.TabIndex = 88;
@@ -218,7 +218,7 @@
             // 
             // mt34
             // 
-            this.mt34.Location = new System.Drawing.Point(164, 140);
+            this.mt34.Location = new System.Drawing.Point(133, 140);
             this.mt34.Name = "mt34";
             this.mt34.Size = new System.Drawing.Size(19, 20);
             this.mt34.TabIndex = 87;
@@ -226,7 +226,7 @@
             // 
             // mt24
             // 
-            this.mt24.Location = new System.Drawing.Point(164, 114);
+            this.mt24.Location = new System.Drawing.Point(133, 114);
             this.mt24.Name = "mt24";
             this.mt24.Size = new System.Drawing.Size(19, 20);
             this.mt24.TabIndex = 86;
@@ -234,7 +234,7 @@
             // 
             // mt14
             // 
-            this.mt14.Location = new System.Drawing.Point(164, 88);
+            this.mt14.Location = new System.Drawing.Point(133, 88);
             this.mt14.Name = "mt14";
             this.mt14.Size = new System.Drawing.Size(19, 20);
             this.mt14.TabIndex = 85;
@@ -243,7 +243,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(34, 94);
+            this.label4.Location = new System.Drawing.Point(3, 94);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(43, 13);
             this.label4.TabIndex = 84;
@@ -251,7 +251,7 @@
             // 
             // mt12
             // 
-            this.mt12.Location = new System.Drawing.Point(114, 88);
+            this.mt12.Location = new System.Drawing.Point(83, 88);
             this.mt12.Name = "mt12";
             this.mt12.Size = new System.Drawing.Size(19, 20);
             this.mt12.TabIndex = 83;
@@ -259,7 +259,7 @@
             // 
             // mt13
             // 
-            this.mt13.Location = new System.Drawing.Point(139, 88);
+            this.mt13.Location = new System.Drawing.Point(108, 88);
             this.mt13.Name = "mt13";
             this.mt13.Size = new System.Drawing.Size(19, 20);
             this.mt13.TabIndex = 82;
@@ -267,7 +267,7 @@
             // 
             // mt21
             // 
-            this.mt21.Location = new System.Drawing.Point(89, 114);
+            this.mt21.Location = new System.Drawing.Point(58, 114);
             this.mt21.Name = "mt21";
             this.mt21.Size = new System.Drawing.Size(19, 20);
             this.mt21.TabIndex = 81;
@@ -275,7 +275,7 @@
             // 
             // mt22
             // 
-            this.mt22.Location = new System.Drawing.Point(114, 114);
+            this.mt22.Location = new System.Drawing.Point(83, 114);
             this.mt22.Name = "mt22";
             this.mt22.Size = new System.Drawing.Size(19, 20);
             this.mt22.TabIndex = 80;
@@ -283,7 +283,7 @@
             // 
             // mt23
             // 
-            this.mt23.Location = new System.Drawing.Point(139, 114);
+            this.mt23.Location = new System.Drawing.Point(108, 114);
             this.mt23.Name = "mt23";
             this.mt23.Size = new System.Drawing.Size(19, 20);
             this.mt23.TabIndex = 79;
@@ -291,7 +291,7 @@
             // 
             // mt31
             // 
-            this.mt31.Location = new System.Drawing.Point(89, 140);
+            this.mt31.Location = new System.Drawing.Point(58, 140);
             this.mt31.Name = "mt31";
             this.mt31.Size = new System.Drawing.Size(19, 20);
             this.mt31.TabIndex = 78;
@@ -299,7 +299,7 @@
             // 
             // mt32
             // 
-            this.mt32.Location = new System.Drawing.Point(114, 140);
+            this.mt32.Location = new System.Drawing.Point(83, 140);
             this.mt32.Name = "mt32";
             this.mt32.Size = new System.Drawing.Size(19, 20);
             this.mt32.TabIndex = 77;
@@ -307,7 +307,7 @@
             // 
             // mt33
             // 
-            this.mt33.Location = new System.Drawing.Point(139, 140);
+            this.mt33.Location = new System.Drawing.Point(108, 140);
             this.mt33.Name = "mt33";
             this.mt33.Size = new System.Drawing.Size(19, 20);
             this.mt33.TabIndex = 76;
@@ -315,7 +315,7 @@
             // 
             // mt11
             // 
-            this.mt11.Location = new System.Drawing.Point(89, 88);
+            this.mt11.Location = new System.Drawing.Point(58, 88);
             this.mt11.Name = "mt11";
             this.mt11.Size = new System.Drawing.Size(19, 20);
             this.mt11.TabIndex = 75;
@@ -323,7 +323,7 @@
             // 
             // mt48
             // 
-            this.mt48.Location = new System.Drawing.Point(267, 169);
+            this.mt48.Location = new System.Drawing.Point(236, 169);
             this.mt48.Name = "mt48";
             this.mt48.Size = new System.Drawing.Size(19, 20);
             this.mt48.TabIndex = 107;
@@ -331,7 +331,7 @@
             // 
             // mt45
             // 
-            this.mt45.Location = new System.Drawing.Point(192, 169);
+            this.mt45.Location = new System.Drawing.Point(161, 169);
             this.mt45.Name = "mt45";
             this.mt45.Size = new System.Drawing.Size(19, 20);
             this.mt45.TabIndex = 106;
@@ -339,7 +339,7 @@
             // 
             // mt46
             // 
-            this.mt46.Location = new System.Drawing.Point(217, 169);
+            this.mt46.Location = new System.Drawing.Point(186, 169);
             this.mt46.Name = "mt46";
             this.mt46.Size = new System.Drawing.Size(19, 20);
             this.mt46.TabIndex = 105;
@@ -347,7 +347,7 @@
             // 
             // mt47
             // 
-            this.mt47.Location = new System.Drawing.Point(242, 169);
+            this.mt47.Location = new System.Drawing.Point(211, 169);
             this.mt47.Name = "mt47";
             this.mt47.Size = new System.Drawing.Size(19, 20);
             this.mt47.TabIndex = 104;
@@ -355,7 +355,7 @@
             // 
             // mt38
             // 
-            this.mt38.Location = new System.Drawing.Point(267, 140);
+            this.mt38.Location = new System.Drawing.Point(236, 140);
             this.mt38.Name = "mt38";
             this.mt38.Size = new System.Drawing.Size(19, 20);
             this.mt38.TabIndex = 103;
@@ -363,7 +363,7 @@
             // 
             // mt28
             // 
-            this.mt28.Location = new System.Drawing.Point(267, 114);
+            this.mt28.Location = new System.Drawing.Point(236, 114);
             this.mt28.Name = "mt28";
             this.mt28.Size = new System.Drawing.Size(19, 20);
             this.mt28.TabIndex = 102;
@@ -371,7 +371,7 @@
             // 
             // mt18
             // 
-            this.mt18.Location = new System.Drawing.Point(267, 88);
+            this.mt18.Location = new System.Drawing.Point(236, 88);
             this.mt18.Name = "mt18";
             this.mt18.Size = new System.Drawing.Size(19, 20);
             this.mt18.TabIndex = 101;
@@ -379,7 +379,7 @@
             // 
             // mt16
             // 
-            this.mt16.Location = new System.Drawing.Point(217, 88);
+            this.mt16.Location = new System.Drawing.Point(186, 88);
             this.mt16.Name = "mt16";
             this.mt16.Size = new System.Drawing.Size(19, 20);
             this.mt16.TabIndex = 100;
@@ -387,7 +387,7 @@
             // 
             // mt17
             // 
-            this.mt17.Location = new System.Drawing.Point(242, 88);
+            this.mt17.Location = new System.Drawing.Point(211, 88);
             this.mt17.Name = "mt17";
             this.mt17.Size = new System.Drawing.Size(19, 20);
             this.mt17.TabIndex = 99;
@@ -395,7 +395,7 @@
             // 
             // mt25
             // 
-            this.mt25.Location = new System.Drawing.Point(192, 114);
+            this.mt25.Location = new System.Drawing.Point(161, 114);
             this.mt25.Name = "mt25";
             this.mt25.Size = new System.Drawing.Size(19, 20);
             this.mt25.TabIndex = 98;
@@ -403,7 +403,7 @@
             // 
             // mt26
             // 
-            this.mt26.Location = new System.Drawing.Point(217, 114);
+            this.mt26.Location = new System.Drawing.Point(186, 114);
             this.mt26.Name = "mt26";
             this.mt26.Size = new System.Drawing.Size(19, 20);
             this.mt26.TabIndex = 97;
@@ -411,7 +411,7 @@
             // 
             // mt27
             // 
-            this.mt27.Location = new System.Drawing.Point(242, 114);
+            this.mt27.Location = new System.Drawing.Point(211, 114);
             this.mt27.Name = "mt27";
             this.mt27.Size = new System.Drawing.Size(19, 20);
             this.mt27.TabIndex = 96;
@@ -419,7 +419,7 @@
             // 
             // mt35
             // 
-            this.mt35.Location = new System.Drawing.Point(192, 140);
+            this.mt35.Location = new System.Drawing.Point(161, 140);
             this.mt35.Name = "mt35";
             this.mt35.Size = new System.Drawing.Size(19, 20);
             this.mt35.TabIndex = 95;
@@ -427,7 +427,7 @@
             // 
             // mt36
             // 
-            this.mt36.Location = new System.Drawing.Point(217, 140);
+            this.mt36.Location = new System.Drawing.Point(186, 140);
             this.mt36.Name = "mt36";
             this.mt36.Size = new System.Drawing.Size(19, 20);
             this.mt36.TabIndex = 94;
@@ -435,7 +435,7 @@
             // 
             // mt37
             // 
-            this.mt37.Location = new System.Drawing.Point(242, 140);
+            this.mt37.Location = new System.Drawing.Point(211, 140);
             this.mt37.Name = "mt37";
             this.mt37.Size = new System.Drawing.Size(19, 20);
             this.mt37.TabIndex = 93;
@@ -443,7 +443,7 @@
             // 
             // mt15
             // 
-            this.mt15.Location = new System.Drawing.Point(192, 88);
+            this.mt15.Location = new System.Drawing.Point(161, 88);
             this.mt15.Name = "mt15";
             this.mt15.Size = new System.Drawing.Size(19, 20);
             this.mt15.TabIndex = 92;
@@ -451,7 +451,7 @@
             // 
             // mt88
             // 
-            this.mt88.Location = new System.Drawing.Point(267, 278);
+            this.mt88.Location = new System.Drawing.Point(236, 278);
             this.mt88.Name = "mt88";
             this.mt88.Size = new System.Drawing.Size(19, 20);
             this.mt88.TabIndex = 139;
@@ -459,7 +459,7 @@
             // 
             // mt85
             // 
-            this.mt85.Location = new System.Drawing.Point(192, 278);
+            this.mt85.Location = new System.Drawing.Point(161, 278);
             this.mt85.Name = "mt85";
             this.mt85.Size = new System.Drawing.Size(19, 20);
             this.mt85.TabIndex = 138;
@@ -467,7 +467,7 @@
             // 
             // mt86
             // 
-            this.mt86.Location = new System.Drawing.Point(217, 278);
+            this.mt86.Location = new System.Drawing.Point(186, 278);
             this.mt86.Name = "mt86";
             this.mt86.Size = new System.Drawing.Size(19, 20);
             this.mt86.TabIndex = 137;
@@ -475,7 +475,7 @@
             // 
             // mt87
             // 
-            this.mt87.Location = new System.Drawing.Point(242, 278);
+            this.mt87.Location = new System.Drawing.Point(211, 278);
             this.mt87.Name = "mt87";
             this.mt87.Size = new System.Drawing.Size(19, 20);
             this.mt87.TabIndex = 136;
@@ -483,7 +483,7 @@
             // 
             // mt78
             // 
-            this.mt78.Location = new System.Drawing.Point(267, 249);
+            this.mt78.Location = new System.Drawing.Point(236, 249);
             this.mt78.Name = "mt78";
             this.mt78.Size = new System.Drawing.Size(19, 20);
             this.mt78.TabIndex = 135;
@@ -491,7 +491,7 @@
             // 
             // mt68
             // 
-            this.mt68.Location = new System.Drawing.Point(267, 223);
+            this.mt68.Location = new System.Drawing.Point(236, 223);
             this.mt68.Name = "mt68";
             this.mt68.Size = new System.Drawing.Size(19, 20);
             this.mt68.TabIndex = 134;
@@ -499,7 +499,7 @@
             // 
             // mt58
             // 
-            this.mt58.Location = new System.Drawing.Point(267, 197);
+            this.mt58.Location = new System.Drawing.Point(236, 197);
             this.mt58.Name = "mt58";
             this.mt58.Size = new System.Drawing.Size(19, 20);
             this.mt58.TabIndex = 133;
@@ -507,7 +507,7 @@
             // 
             // mt56
             // 
-            this.mt56.Location = new System.Drawing.Point(217, 197);
+            this.mt56.Location = new System.Drawing.Point(186, 197);
             this.mt56.Name = "mt56";
             this.mt56.Size = new System.Drawing.Size(19, 20);
             this.mt56.TabIndex = 132;
@@ -515,7 +515,7 @@
             // 
             // mt57
             // 
-            this.mt57.Location = new System.Drawing.Point(242, 197);
+            this.mt57.Location = new System.Drawing.Point(211, 197);
             this.mt57.Name = "mt57";
             this.mt57.Size = new System.Drawing.Size(19, 20);
             this.mt57.TabIndex = 131;
@@ -523,7 +523,7 @@
             // 
             // mt65
             // 
-            this.mt65.Location = new System.Drawing.Point(192, 223);
+            this.mt65.Location = new System.Drawing.Point(161, 223);
             this.mt65.Name = "mt65";
             this.mt65.Size = new System.Drawing.Size(19, 20);
             this.mt65.TabIndex = 130;
@@ -531,7 +531,7 @@
             // 
             // mt66
             // 
-            this.mt66.Location = new System.Drawing.Point(217, 223);
+            this.mt66.Location = new System.Drawing.Point(186, 223);
             this.mt66.Name = "mt66";
             this.mt66.Size = new System.Drawing.Size(19, 20);
             this.mt66.TabIndex = 129;
@@ -539,7 +539,7 @@
             // 
             // mt67
             // 
-            this.mt67.Location = new System.Drawing.Point(242, 223);
+            this.mt67.Location = new System.Drawing.Point(211, 223);
             this.mt67.Name = "mt67";
             this.mt67.Size = new System.Drawing.Size(19, 20);
             this.mt67.TabIndex = 128;
@@ -547,7 +547,7 @@
             // 
             // mt75
             // 
-            this.mt75.Location = new System.Drawing.Point(192, 249);
+            this.mt75.Location = new System.Drawing.Point(161, 249);
             this.mt75.Name = "mt75";
             this.mt75.Size = new System.Drawing.Size(19, 20);
             this.mt75.TabIndex = 127;
@@ -555,7 +555,7 @@
             // 
             // mt76
             // 
-            this.mt76.Location = new System.Drawing.Point(217, 249);
+            this.mt76.Location = new System.Drawing.Point(186, 249);
             this.mt76.Name = "mt76";
             this.mt76.Size = new System.Drawing.Size(19, 20);
             this.mt76.TabIndex = 126;
@@ -563,7 +563,7 @@
             // 
             // mt77
             // 
-            this.mt77.Location = new System.Drawing.Point(242, 249);
+            this.mt77.Location = new System.Drawing.Point(211, 249);
             this.mt77.Name = "mt77";
             this.mt77.Size = new System.Drawing.Size(19, 20);
             this.mt77.TabIndex = 125;
@@ -571,7 +571,7 @@
             // 
             // mt55
             // 
-            this.mt55.Location = new System.Drawing.Point(192, 197);
+            this.mt55.Location = new System.Drawing.Point(161, 197);
             this.mt55.Name = "mt55";
             this.mt55.Size = new System.Drawing.Size(19, 20);
             this.mt55.TabIndex = 124;
@@ -579,7 +579,7 @@
             // 
             // mt84
             // 
-            this.mt84.Location = new System.Drawing.Point(164, 278);
+            this.mt84.Location = new System.Drawing.Point(133, 278);
             this.mt84.Name = "mt84";
             this.mt84.Size = new System.Drawing.Size(19, 20);
             this.mt84.TabIndex = 123;
@@ -587,7 +587,7 @@
             // 
             // mt81
             // 
-            this.mt81.Location = new System.Drawing.Point(89, 278);
+            this.mt81.Location = new System.Drawing.Point(58, 278);
             this.mt81.Name = "mt81";
             this.mt81.Size = new System.Drawing.Size(19, 20);
             this.mt81.TabIndex = 122;
@@ -595,7 +595,7 @@
             // 
             // mt82
             // 
-            this.mt82.Location = new System.Drawing.Point(114, 278);
+            this.mt82.Location = new System.Drawing.Point(83, 278);
             this.mt82.Name = "mt82";
             this.mt82.Size = new System.Drawing.Size(19, 20);
             this.mt82.TabIndex = 121;
@@ -603,7 +603,7 @@
             // 
             // mt83
             // 
-            this.mt83.Location = new System.Drawing.Point(139, 278);
+            this.mt83.Location = new System.Drawing.Point(108, 278);
             this.mt83.Name = "mt83";
             this.mt83.Size = new System.Drawing.Size(19, 20);
             this.mt83.TabIndex = 120;
@@ -611,7 +611,7 @@
             // 
             // mt74
             // 
-            this.mt74.Location = new System.Drawing.Point(164, 249);
+            this.mt74.Location = new System.Drawing.Point(133, 249);
             this.mt74.Name = "mt74";
             this.mt74.Size = new System.Drawing.Size(19, 20);
             this.mt74.TabIndex = 119;
@@ -619,7 +619,7 @@
             // 
             // mt64
             // 
-            this.mt64.Location = new System.Drawing.Point(164, 223);
+            this.mt64.Location = new System.Drawing.Point(133, 223);
             this.mt64.Name = "mt64";
             this.mt64.Size = new System.Drawing.Size(19, 20);
             this.mt64.TabIndex = 118;
@@ -627,7 +627,7 @@
             // 
             // mt54
             // 
-            this.mt54.Location = new System.Drawing.Point(164, 197);
+            this.mt54.Location = new System.Drawing.Point(133, 197);
             this.mt54.Name = "mt54";
             this.mt54.Size = new System.Drawing.Size(19, 20);
             this.mt54.TabIndex = 117;
@@ -635,7 +635,7 @@
             // 
             // mt52
             // 
-            this.mt52.Location = new System.Drawing.Point(114, 197);
+            this.mt52.Location = new System.Drawing.Point(83, 197);
             this.mt52.Name = "mt52";
             this.mt52.Size = new System.Drawing.Size(19, 20);
             this.mt52.TabIndex = 116;
@@ -643,7 +643,7 @@
             // 
             // mt53
             // 
-            this.mt53.Location = new System.Drawing.Point(139, 197);
+            this.mt53.Location = new System.Drawing.Point(108, 197);
             this.mt53.Name = "mt53";
             this.mt53.Size = new System.Drawing.Size(19, 20);
             this.mt53.TabIndex = 115;
@@ -651,7 +651,7 @@
             // 
             // mt61
             // 
-            this.mt61.Location = new System.Drawing.Point(89, 223);
+            this.mt61.Location = new System.Drawing.Point(58, 223);
             this.mt61.Name = "mt61";
             this.mt61.Size = new System.Drawing.Size(19, 20);
             this.mt61.TabIndex = 114;
@@ -659,7 +659,7 @@
             // 
             // mt62
             // 
-            this.mt62.Location = new System.Drawing.Point(114, 223);
+            this.mt62.Location = new System.Drawing.Point(83, 223);
             this.mt62.Name = "mt62";
             this.mt62.Size = new System.Drawing.Size(19, 20);
             this.mt62.TabIndex = 113;
@@ -667,7 +667,7 @@
             // 
             // mt63
             // 
-            this.mt63.Location = new System.Drawing.Point(139, 223);
+            this.mt63.Location = new System.Drawing.Point(108, 223);
             this.mt63.Name = "mt63";
             this.mt63.Size = new System.Drawing.Size(19, 20);
             this.mt63.TabIndex = 112;
@@ -675,7 +675,7 @@
             // 
             // mt71
             // 
-            this.mt71.Location = new System.Drawing.Point(89, 249);
+            this.mt71.Location = new System.Drawing.Point(58, 249);
             this.mt71.Name = "mt71";
             this.mt71.Size = new System.Drawing.Size(19, 20);
             this.mt71.TabIndex = 111;
@@ -683,7 +683,7 @@
             // 
             // mt72
             // 
-            this.mt72.Location = new System.Drawing.Point(114, 249);
+            this.mt72.Location = new System.Drawing.Point(83, 249);
             this.mt72.Name = "mt72";
             this.mt72.Size = new System.Drawing.Size(19, 20);
             this.mt72.TabIndex = 110;
@@ -691,7 +691,7 @@
             // 
             // mt73
             // 
-            this.mt73.Location = new System.Drawing.Point(139, 249);
+            this.mt73.Location = new System.Drawing.Point(108, 249);
             this.mt73.Name = "mt73";
             this.mt73.Size = new System.Drawing.Size(19, 20);
             this.mt73.TabIndex = 109;
@@ -699,7 +699,7 @@
             // 
             // mt51
             // 
-            this.mt51.Location = new System.Drawing.Point(89, 197);
+            this.mt51.Location = new System.Drawing.Point(58, 197);
             this.mt51.Name = "mt51";
             this.mt51.Size = new System.Drawing.Size(19, 20);
             this.mt51.TabIndex = 108;
@@ -783,7 +783,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtInput);
             this.Name = "Hill";
-            this.Size = new System.Drawing.Size(672, 557);
+            this.Size = new System.Drawing.Size(627, 419);
             this.ResumeLayout(false);
             this.PerformLayout();
 

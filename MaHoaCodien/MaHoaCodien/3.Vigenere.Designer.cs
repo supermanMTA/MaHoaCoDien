@@ -40,7 +40,7 @@
             // 
             // txtKey
             // 
-            this.txtKey.Location = new System.Drawing.Point(433, 71);
+            this.txtKey.Location = new System.Drawing.Point(347, 68);
             this.txtKey.Name = "txtKey";
             this.txtKey.Size = new System.Drawing.Size(228, 50);
             this.txtKey.TabIndex = 24;
@@ -48,7 +48,7 @@
             // 
             // btnGiaiMa
             // 
-            this.btnGiaiMa.Location = new System.Drawing.Point(564, 144);
+            this.btnGiaiMa.Location = new System.Drawing.Point(479, 144);
             this.btnGiaiMa.Name = "btnGiaiMa";
             this.btnGiaiMa.Size = new System.Drawing.Size(75, 23);
             this.btnGiaiMa.TabIndex = 23;
@@ -58,7 +58,7 @@
             // 
             // btnMahoa
             // 
-            this.btnMahoa.Location = new System.Drawing.Point(449, 144);
+            this.btnMahoa.Location = new System.Drawing.Point(366, 144);
             this.btnMahoa.Name = "btnMahoa";
             this.btnMahoa.Size = new System.Drawing.Size(75, 23);
             this.btnMahoa.TabIndex = 22;
@@ -70,7 +70,7 @@
             // 
             this.txtOutput.Location = new System.Drawing.Point(51, 263);
             this.txtOutput.Name = "txtOutput";
-            this.txtOutput.Size = new System.Drawing.Size(340, 157);
+            this.txtOutput.Size = new System.Drawing.Size(290, 157);
             this.txtOutput.TabIndex = 21;
             this.txtOutput.Text = "";
             // 
@@ -97,14 +97,14 @@
             // 
             this.txtInput.Location = new System.Drawing.Point(51, 50);
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(344, 162);
+            this.txtInput.Size = new System.Drawing.Size(290, 162);
             this.txtInput.TabIndex = 18;
             this.txtInput.Text = "";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(433, 52);
+            this.label1.Location = new System.Drawing.Point(368, 52);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(32, 13);
             this.label1.TabIndex = 25;
@@ -123,7 +123,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtInput);
             this.Name = "Vigenere";
-            this.Size = new System.Drawing.Size(680, 568);
+            this.Size = new System.Drawing.Size(599, 459);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -503,5 +503,10 @@ namespace MaHoaCodien
         {
             txtOutput.Text = G_Hill(ChuanHoa(txtInput.Text), index);
         }
+
+        private void txtOutput_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
